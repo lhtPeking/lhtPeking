@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Haotian</h1>
+<h1 align="center">Hi 👋, this is Haotian Fenrir Li</h1>
 <p align="center">
-  🚀 Exploring strategies, data, and systems through code<br>
-  🧠 Think deeply, build pragmatically, break the mold
+  🧠 An undergraduate student @PKU, majoring in Neuroscience.<br>
+  🚀 Computational Neuroscience, Neuronal Development, and Neural Hardware Technologies
 </p>
 
 ---
@@ -36,9 +36,7 @@
 
 ### 🚀 Recent Projects
 
-- 🔬 Momentum-based Backtest System
-- 📈 Quantitative Portfolio Allocation Models
-- 🧩 Custom Strategy Frameworks (factor-driven / rule-based)
+- 
 
 ---
 
