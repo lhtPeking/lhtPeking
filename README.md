@@ -33,5 +33,15 @@
 
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhtPeking&layout=compact&langs_count=10&theme=default)
-![Haotian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhtPeking&show_icons=true&theme=default)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhtPeking&layout=compact&langs_count=10&theme=default" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=lhtPeking&theme=default" />
+    </td>
+  </tr>
+</table>
+
+
