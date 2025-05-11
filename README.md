@@ -30,3 +30,8 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobeillustrator&logoColor=FF9A00)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma&logoColor=F24E1E)
 ![GraphPad Prism](https://img.shields.io/badge/-Prism-000?&logo=graphpad-prism&logoColor=00B5F8)
+
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhtPeking&layout=compact&langs_count=10&theme=default)
+![Haotian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhtPeking&show_icons=true&theme=default)
