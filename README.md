@@ -22,27 +22,3 @@
 ![Conda](https://img.shields.io/badge/-Conda-000?&logo=anaconda&logoColor=44A833)
 ![Verilog](https://img.shields.io/badge/-Verilog-000?&logo=verilog&logoColor=ED1C24)
 ![Vivado](https://img.shields.io/badge/-Vivado-000?&logo=xilinx&logoColor=F6B400)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lhtPeking&show_icons=true&theme=default&hide=stars&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhtPeking&layout=compact&hide=html&theme=default" height="180px"/>
-</p>
-
----
-
-### 🚀 Recent Projects
-
-- 
-
----
-
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
-
----
