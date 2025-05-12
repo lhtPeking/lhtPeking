@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, this is Haotian Fenrir Li</h1>
 <p align="center">
   🧠 An undergraduate student @PKU, majoring in Neuroscience.<br>
-  🚀 Computational Neuroscience, Neuronal Development, and Neural Hardware Technologies
+  🚀 Chaos Theory, Computational Neuroscience, Neuronal Development, and Neural Hardware Technologies
 </p>
 
+
+<!--
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lhtPeking" alt="ortonb110" /></a> </p>
@@ -43,5 +45,5 @@
     </td>
   </tr>
 </table>
-
+-->
 
