@@ -1,12 +1,23 @@
-<h1 align="center">Hi 👋, this is Haotian Fenrir Li</h1>
-<p align="center">
-  🧠 An undergraduate student @PKU, majoring in Neuroscience.<br>
-  🚀 Chaos Theory, Computational Neuroscience, Neuronal Development, and Neural Hardware Technologies
-</p>
+<!-- 黑色简介区块 -->
+<div align="center" style="background-color:#0d1117;padding:20px;border-radius:10px;color:#c9d1d9">
+
+  <h1>Hi 👋, this is Haotian Fenrir Li</h1>
+
+  <p>
+    🧠 An undergraduate student @PKU, majoring in Neuroscience.<br>
+    🚀 Passionate about Chaos Theory, Computational Neuroscience,<br>
+    Neuronal Development, and Neural Hardware Technologies.
+  </p>
+  
+</div>
 
 ---
-<img src="https://github-profile-trophy.vercel.app/?username=lhtPeking&theme=darkhub&title=MultiLanguage,Stars,Followers,Commit,Repositories,Experience,Issues,PullRequest" />
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lhtPeking&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&title=MultiLanguage,Stars,Followers,Commit,Repositories,Experience,Issues,PullRequest" />
+</p>
 
 
 <!--
