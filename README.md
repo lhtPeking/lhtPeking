@@ -4,11 +4,9 @@
   🚀 Chaos Theory, Computational Neuroscience, Neuronal Development, and Neural Hardware Technologies
 </p>
 
-
-
 ---
+<img src="https://github-profile-trophy.vercel.app/?username=lhtPeking&theme=darkhub&title=MultiLanguage,Stars,Followers,Commit,Repositories,Experience,Issues,PullRequest" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lhtPeking" alt="ortonb110" /></a> </p>
 
 
 <!--
