@@ -5,7 +5,7 @@
 </p>
 
 ---
-<img src="https://github-profile-trophy.vercel.app/?username=lhtPeking&theme=darkhub&title=MultiLanguage,Stars,Followers,Commit,Repositories,Experience,Issues,PullRequest" />
+<img src="https://github-profile-trophy.vercel.app/?username=lhtPeking&theme=darkhub" />
 
 
 <!--
