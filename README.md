@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, this is Haotian Fenrir Li</h1>
 <p align="center">
   🧠 An undergraduate student @PKU, majoring in Neuroscience.<br>
-  🚀 Chaos Theory, Computational Neuroscience, Neuronal Development, and Neural Hardware Technologies
+  🚀 Computational Neuroscience, Developmental Neuroscience, and Mathematical Physics.
 </p>
 
+
+
+<!--
 ---
 <img src="https://github-profile-trophy.vercel.app/?username=lhtPeking&theme=darkhub" />
 
 
-<!--
+
 
 ### 🛠️ Languages & Tools
 
