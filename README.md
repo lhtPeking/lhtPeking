@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, this is Haotian Fenrir Li</h1>
 <p align="center">
-  🧠 An undergraduate student @PKU, majoring in Neuroscience.<br>
-  🚀 Computational Neuroscience, Developmental Neuroscience, and Mathematical Physics.
+  🚀 Computational Neuroscience, Theoretical Neuroscience, and Statistical Physics.
 </p>
 
 
