@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, this is Haotian Fenrir Li</h1>
 <p align="center">
-  🚀 Computational Neuroscience, Theoretical Neuroscience, and Statistical Physics.
+  🚀 Computational Neuroscience, Theoretical Neuroscience and Statistical Physics.
 </p>
 
 
